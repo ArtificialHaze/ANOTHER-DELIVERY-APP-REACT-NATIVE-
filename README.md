@@ -1,0 +1,2 @@
+# ANOTHER-DELIVERY-APP-REACT-NATIVE-
+It's very simple.
